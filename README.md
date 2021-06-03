@@ -2,7 +2,7 @@
 
 This project was made to keep the standard heat bed constant at the desired temperature in a closed environment (such as an oven) and to measure the temperature inside.
 
-New updates are coming soon...  :slight_smile:
+New updates are coming soon...  :)
 
 ## Used Components
 
