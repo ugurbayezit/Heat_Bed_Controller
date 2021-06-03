@@ -4,8 +4,6 @@ It is made to ensure that the standard heat bed remains constant at the desired 
 
 The following system has also been installed in order to control the heat bed temperature depending on the heat bed.
 
-
-
 ## Used Components
 
 1.  Arduino Uno
@@ -24,7 +22,11 @@ The following system has also been installed in order to control the heat bed te
 
 **It was designed open source with [aydnssman](https://github.com/aydnssman).**
 
+## Heat Bed Contorller Schematic
+
 ![Heat Bed Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Controller.png)
+
+## Temperature Controller Schematic**
 
 ![Temperature Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Temp_Controller.png)
 
