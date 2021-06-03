@@ -2,7 +2,7 @@
 
 It is made to ensure that the standard heat bed remains constant at the desired temperature.
 
-The following system has also been installed in order to control the table temperature depending on the heat bed.
+The following system has also been installed in order to control the heat bed temperature depending on the heat bed.
 
 
 
