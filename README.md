@@ -22,11 +22,11 @@ The following system has also been installed in order to control the heat bed te
 
 **It was designed open source with [aydnssman](https://github.com/aydnssman).**
 
-## Heat Bed Contorller Schematic
+## Heat Bed Contorller Schematic:
 
 ![Heat Bed Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Controller.png)
 
-## Temperature Controller Schematic
+## Temperature Controller Schematic:
 
 ![Temperature Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Temp_Controller.png)
 
